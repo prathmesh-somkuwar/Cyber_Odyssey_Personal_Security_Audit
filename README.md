@@ -21,7 +21,6 @@
 ## 🎯 **Mission Debrief**
 
 **Transformed vulnerable digital footprint → Enterprise-grade fortress**  
-**Real audit of 28 accounts across 3 devices from `/home/prathamesh/PersonalCyberAudit/`**
 
 | **Metric** | **Pre-Audit** | **Post-Audit** | **Improvement** |
 |------------|---------------|----------------|-----------------|
@@ -46,6 +45,7 @@ PersonalCyberAudit/
 ├── 🎛️ audit_dashboard.py            
 ├── 📋 audit_report.md               
 └── 📖 README.md                      
+
 
 
 
