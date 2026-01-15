@@ -8,6 +8,11 @@
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=0A2540&center=true&vCenter=true&width=600&lines=MISSION+1+COMPLETE;87%25+2FA+Coverage;ZERO+Weak+Passwords;73%25+Threat+Reduction;SECURE+🟢" alt="Typing SVG" />
+</p> 
+
+
+<p align="center">
+<sub>Built by Prathamesh | Nagpur, India | Cyber Odyssey Series 🏛️</sub>
 </p>
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3.8%2B-3776AB?style=for-the-badge&logo=python&logoColor=white" />
@@ -45,6 +50,7 @@ PersonalCyberAudit/
 ├── 🎛️ audit_dashboard.py            
 ├── 📋 audit_report.md               
 └── 📖 README.md                      
+
 
 
 
